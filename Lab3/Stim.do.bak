@@ -1,0 +1,3 @@
+force A 1 0ns, 1 25ns, 0 50ns, 0 75ns -repeat 150ns;
+force B 1 0ns, 0 25ns, 1 50ns, 0 75ns -repeat 100ns;
+
