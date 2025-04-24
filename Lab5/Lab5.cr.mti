@@ -1,0 +1,8 @@
+C:/altera/13.1/MS/Lab5/Decoder4.v {1 {vlog -work work -nocovercells C:/altera/13.1/MS/Lab5/Decoder4.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module decoder4
+
+Top level modules:
+	decoder4
+
+} {} {}}
